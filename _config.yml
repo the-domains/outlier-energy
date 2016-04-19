@@ -1,0 +1,28 @@
+name: Outlier Energy
+favicon: null
+layout_spectrum: 0.860499074915424
+typography_spectrum: 0.7049279280472547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.044161097379401326
+  lightness: 0.3795589762739837
+  saturation: 0.24671245063655078
+  rhythmicContrast: 0.17937588738277555
+purpose: []
